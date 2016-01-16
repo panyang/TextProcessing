@@ -7,9 +7,9 @@ A Text Processing Portal for Humans http://textprocessing.org/
 
 * [Books](#books)
 * [Courses](#courses)
-* [Java Projects](#java)
-* [Python Projects](#python)
-* [Ruby Projects](#Ruby)
+* [Java](#java)
+* [Python](#python)
+* [Ruby](#ruby)
 
 ## Books
 
@@ -23,19 +23,19 @@ A collection of text processing courses
 
 * [Stanford Natural Language Processing](http://textprocessing.org/text-processing-course-stanford-natural-language-processing)
 
-## Java Projects
+## Java
 
 A collection of java open source text processing projects
 
 * [Stanford CoreNLP](http://textprocessing.org/open-source-text-processing-project-stanford-corenlp)
 
-## Python Projects
+## Python
 
 A collection of python open source text processing projects
 
 * [NLTK](http://textprocessing.org/open-source-text-processing-project-nltk)
 
-## Ruby Projects
+## Ruby
 
 A collection of ruby open source text processing projects
 

@@ -19,6 +19,11 @@ A collection of text processing books
 * [Foundations of Statistical Natural Language Processing, 1st Edition](http://textprocessing.org/text-processing-book-foundations-of-statistical-natural-language-processing-1st-edition)
 * [Natural Language Processing with Python 1st Edition](http://textprocessing.org/text-processing-book-natural-language-processing-with-python-1st-edition)
 * [Python Text Processing with NLTK 2.0 Cookbook](http://textprocessing.org/text-processing-book-python-text-processing-with-nltk-2-0-cookbook)
+* [Text Processing in Python 1st Edition](http://textprocessing.org/text-processing-book-text-processing-in-python-1st-edition)
+* [Python 2.6 Text Processing Beginners Guide](http://textprocessing.org/text-processing-book-python-2-6-text-processing-beginners-guide)
+* [Python 2.6 Text Processing Beginners Guide](http://textprocessing.org/text-processing-book-python-2-6-text-processing-beginners-guide)
+* [Taming Text: How to Find, Organize, and Manipulate It 1st Edition](http://textprocessing.org/text-processing-book-taming-text-how-to-find-organize-and-manipulate-it-1st-edition)
+* [Text Processing with Ruby](http://textprocessing.org/text-processing-book-text-processing-with-ruby)
 
 ## Courses
 

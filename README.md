@@ -30,6 +30,10 @@ A collection of text processing books
 A collection of text processing courses
 
 * [Stanford Natural Language Processing](http://textprocessing.org/text-processing-course-stanford-natural-language-processing)
+* [Natural Language Processing by Columbia University](http://textprocessing.org/text-processing-course-natural-language-processing-by-columbia-university)
+* [Text Mining and Analytics](http://textprocessing.org/text-processing-course-text-mining-and-analytics)
+* [Introduction to Natural Language Processing](http://textprocessing.org/text-processing-course-introduction-to-natural-language-processing)
+* [Stanford Deep Learning for Natural Language Processing](http://textprocessing.org/text-processing-course-stanford-deep-learning-for-natural-language-processing)
 
 ## Java
 

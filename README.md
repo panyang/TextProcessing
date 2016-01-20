@@ -40,7 +40,14 @@ A collection of text processing courses
 A collection of python open source text processing projects
 
 * [NLTK: Natural Language Toolkit](http://textprocessing.org/open-source-text-processing-project-nltk)
-* [spaCy: BUILD TOMORROW’S LANGUAGE TECHNOLOGIES]http://textprocessing.org/open-source-text-processing-project-spacy)
+* [spaCy: BUILD TOMORROW’S LANGUAGE TECHNOLOGIES](http://textprocessing.org/open-source-text-processing-project-spacy)
+* [spaCy: BUILD TOMORROW’S LANGUAGE TECHNOLOGIES](http://textprocessing.org/open-source-text-processing-project-spacy)
+* [TextBlob: Simplified Text Processing](http://textprocessing.org/open-source-text-processing-project-textblob)
+* [MBSP for Python](http://textprocessing.org/open-source-text-processing-project-mbsp)
+* [Pattern](http://textprocessing.org/open-source-text-processing-project-pattern)
+* [Gensim: Topic Modelling for Humans](http://textprocessing.org/open-source-text-processing-project-gensim)
+* [Jieba: Chinese text segmentation](http://textprocessing.org/open-source-text-processing-project-jieba)
+* [langid.py: Stand-alone language identification system](http://textprocessing.org/open-source-text-processing-project-langid)
 
 ## Java
 

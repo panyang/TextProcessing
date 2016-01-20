@@ -7,8 +7,8 @@ A Text Processing Portal for Humans http://textprocessing.org/
 
 * [Books](#books)
 * [Courses](#courses)
-* [Java](#java)
 * [Python](#python)
+* [Java](#java)
 * [Ruby](#ruby)
 
 ## Books

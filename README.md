@@ -35,17 +35,18 @@ A collection of text processing courses
 * [Introduction to Natural Language Processing](http://textprocessing.org/text-processing-course-introduction-to-natural-language-processing)
 * [Stanford Deep Learning for Natural Language Processing](http://textprocessing.org/text-processing-course-stanford-deep-learning-for-natural-language-processing)
 
+## Python
+
+A collection of python open source text processing projects
+
+* [NLTK: Natural Language Toolkit](http://textprocessing.org/open-source-text-processing-project-nltk)
+* [spaCy: BUILD TOMORROW’S LANGUAGE TECHNOLOGIES]http://textprocessing.org/open-source-text-processing-project-spacy)
+
 ## Java
 
 A collection of java open source text processing projects
 
 * [Stanford CoreNLP](http://textprocessing.org/open-source-text-processing-project-stanford-corenlp)
-
-## Python
-
-A collection of python open source text processing projects
-
-* [NLTK](http://textprocessing.org/open-source-text-processing-project-nltk)
 
 ## Ruby
 

@@ -55,6 +55,18 @@ A collection of python open source text processing projects
 A collection of java open source text processing projects
 
 * [Stanford CoreNLP](http://textprocessing.org/open-source-text-processing-project-stanford-corenlp)
+* [Stanford Log-linear Part-Of-Speech Tagger](http://textprocessing.org/open-source-text-processing-project-stanford-log-linear-part-of-speech-tagger)
+* [Stanford Named Entity Recognizer (NER)](http://textprocessing.org/open-source-text-processing-project-stanford-named-entity-recognizer-ner)
+* [The Stanford Parser: A statistical parser](http://textprocessing.org/open-source-text-processing-project-the-stanford-parser-a-statistical-parser)
+* [Stanford Word Segmenter](http://textprocessing.org/open-source-text-processing-project-stanford-word-segmenter)
+* [Stanford Classifer](http://textprocessing.org/open-source-text-processing-project-stanford-classifer)
+* [Stanford Tokenizer](http://textprocessing.org/open-source-text-processing-project-stanford-tokenizer)
+* [Stanford Open Information Extraction](http://textprocessing.org/open-source-text-processing-project-stanford-open-information-extraction)
+* [ClearNLP：Software and resources for natural language processing](http://textprocessing.org/open-source-text-processing-project-clearnlp)
+* [Apache OpenNLP](http://textprocessing.org/open-source-text-processing-project-opennlp)
+* [GATE: a full-lifecycle open source solution for text processing](http://textprocessing.org/open-source-text-processing-project-gate)
+* [LingPipe](http://textprocessing.org/open-source-text-processing-project-lingpipe)
+* [THUTag: A Package of Keyphrase Extraction and Social Tag Suggetion](http://textprocessing.org/open-source-text-processing-project-thutag)
 
 ## Ruby
 

@@ -9,6 +9,7 @@ A Text Processing Portal for Humans http://textprocessing.org/
 * [Courses](#courses)
 * [Python](#python)
 * [Java](#java)
+* [C/C++](#c_c_plus_plus)
 * [Ruby](#ruby)
 
 ## Books
@@ -67,6 +68,14 @@ A collection of java open source text processing projects
 * [GATE: a full-lifecycle open source solution for text processing](http://textprocessing.org/open-source-text-processing-project-gate)
 * [LingPipe](http://textprocessing.org/open-source-text-processing-project-lingpipe)
 * [THUTag: A Package of Keyphrase Extraction and Social Tag Suggetion](http://textprocessing.org/open-source-text-processing-project-thutag)
+
+## C/C++
+
+A collection of c/c++ open source text processing projects
+
+* [GibbsLDA++: A C/C++ Implementation of Latent Dirichlet Allocation](http://textprocessing.org/open-source-text-processing-project-gibbslda)
+* [CRF++: Yet Another CRF toolkit](http://textprocessing.org/open-source-text-processing-project-crf)
+* [Maximum Entropy Modeling Toolkit for Python and C++](http://textprocessing.org/open-source-text-processing-project-maximum-entropy-modeling-toolkit)
 
 ## Ruby
 

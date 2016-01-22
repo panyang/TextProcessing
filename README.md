@@ -9,7 +9,7 @@ A Text Processing Portal for Humans http://textprocessing.org/
 * [Courses](#courses)
 * [Python](#python)
 * [Java](#java)
-* [C/C++](#c_c_plus_plus)
+* [C/C++](#cc)
 * [Ruby](#ruby)
 
 ## Books

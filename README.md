@@ -41,7 +41,6 @@ A collection of python open source text processing projects
 
 * [NLTK: Natural Language Toolkit](http://textprocessing.org/open-source-text-processing-project-nltk)
 * [spaCy: BUILD TOMORROW’S LANGUAGE TECHNOLOGIES](http://textprocessing.org/open-source-text-processing-project-spacy)
-* [spaCy: BUILD TOMORROW’S LANGUAGE TECHNOLOGIES](http://textprocessing.org/open-source-text-processing-project-spacy)
 * [TextBlob: Simplified Text Processing](http://textprocessing.org/open-source-text-processing-project-textblob)
 * [MBSP for Python](http://textprocessing.org/open-source-text-processing-project-mbsp)
 * [Pattern](http://textprocessing.org/open-source-text-processing-project-pattern)

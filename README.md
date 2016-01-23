@@ -50,6 +50,7 @@ A collection of python open source text processing projects
 * [langid.py: Stand-alone language identification system](http://textprocessing.org/open-source-text-processing-project-langid)
 * [Sumy: Automatic text summarizer](http://textprocessing.org/open-source-text-processing-project-sumy)
 * [summarize: A python library for simple text summarization](http://textprocessing.org/open-source-text-processing-project-summarize)
+* [Reduction](http://textprocessing.org/open-source-text-processing-project-reduction)
 
 ## Java
 

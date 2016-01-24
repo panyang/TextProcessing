@@ -77,6 +77,7 @@ A collection of c/c++ open source text processing projects
 * [GibbsLDA++: A C/C++ Implementation of Latent Dirichlet Allocation](http://textprocessing.org/open-source-text-processing-project-gibbslda)
 * [CRF++: Yet Another CRF toolkit](http://textprocessing.org/open-source-text-processing-project-crf)
 * [Maximum Entropy Modeling Toolkit for Python and C++](http://textprocessing.org/open-source-text-processing-project-maximum-entropy-modeling-toolkit)
+* [Open Text Summarizer](http://textprocessing.org/open-source-text-processing-project-open-text-summarizer)
 
 ## Ruby
 

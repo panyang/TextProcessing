@@ -69,6 +69,7 @@ A collection of java open source text processing projects
 * [GATE: a full-lifecycle open source solution for text processing](http://textprocessing.org/open-source-text-processing-project-gate)
 * [LingPipe](http://textprocessing.org/open-source-text-processing-project-lingpipe)
 * [THUTag: A Package of Keyphrase Extraction and Social Tag Suggetion](http://textprocessing.org/open-source-text-processing-project-thutag)
+* [KEA: Keyphrase Extraction Algorithm](http://textprocessing.org/open-source-text-processing-project-kea)
 
 ## C/C++
 

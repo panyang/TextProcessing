@@ -51,6 +51,7 @@ A collection of python open source text processing projects
 * [Sumy: Automatic text summarizer](http://textprocessing.org/open-source-text-processing-project-sumy)
 * [summarize: A python library for simple text summarization](http://textprocessing.org/open-source-text-processing-project-summarize)
 * [Reduction](http://textprocessing.org/open-source-text-processing-project-reduction)
+* [RAKE: A python implementation of the Rapid Automatic Keyword Extraction](http://textprocessing.org/open-source-text-processing-project-rake)
 
 ## Java
 

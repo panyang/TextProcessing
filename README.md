@@ -35,6 +35,8 @@ A collection of text processing courses
 * [Text Mining and Analytics](http://textprocessing.org/text-processing-course-text-mining-and-analytics)
 * [Introduction to Natural Language Processing](http://textprocessing.org/text-processing-course-introduction-to-natural-language-processing)
 * [Stanford Deep Learning for Natural Language Processing](http://textprocessing.org/text-processing-course-stanford-deep-learning-for-natural-language-processing)
+* [Umass: Introduction to Natural Language Processing](http://textprocessing.org/text-processing-course-introduction-to-natural-language-processing-umass)
+
 
 ## Python
 

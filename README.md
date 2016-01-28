@@ -54,6 +54,7 @@ A collection of python open source text processing projects
 * [summarize: A python library for simple text summarization](http://textprocessing.org/open-source-text-processing-project-summarize)
 * [Reduction](http://textprocessing.org/open-source-text-processing-project-reduction)
 * [RAKE: A python implementation of the Rapid Automatic Keyword Extraction](http://textprocessing.org/open-source-text-processing-project-rake)
+* [tagger: A Python module for extracting relevant tags from text documents](http://textprocessing.org/open-source-text-processing-project-tagger)
 
 ## Java
 

@@ -56,6 +56,7 @@ A collection of python open source text processing projects
 * [RAKE: A python implementation of the Rapid Automatic Keyword Extraction](http://textprocessing.org/open-source-text-processing-project-rake)
 * [tagger: A Python module for extracting relevant tags from text documents](http://textprocessing.org/open-source-text-processing-project-tagger)
 * [topia.termextract: Content Term Extraction using POS Tagging](http://textprocessing.org/open-source-text-processing-project-topia-termextract)
+* [summarizer: A multidocument text summarizer](http://textprocessing.org/open-source-text-processing-project-summarizer)
 
 ## Java
 

@@ -11,6 +11,7 @@ A Text Processing Portal for Humans http://textprocessing.org/
 * [Java](#java)
 * [C/C++](#cc)
 * [Ruby](#ruby)
+* [Scala](#scala)
 
 ## Books
 
@@ -92,3 +93,10 @@ A collection of c/c++ open source text processing projects
 A collection of ruby open source text processing projects
 
 * [WhatLanguage](http://textprocessing.org/open-source-text-processing-project-whatlanguage)
+
+## Scala
+
+A collection of scala open source text processing projects
+
+* [TextTeaser](http://textprocessing.org/open-source-text-processing-project-textteaser)
+

@@ -58,6 +58,7 @@ A collection of python open source text processing projects
 * [tagger: A Python module for extracting relevant tags from text documents](http://textprocessing.org/open-source-text-processing-project-tagger)
 * [topia.termextract: Content Term Extraction using POS Tagging](http://textprocessing.org/open-source-text-processing-project-topia-termextract)
 * [summarizer: A multidocument text summarizer](http://textprocessing.org/open-source-text-processing-project-summarizer)
+* [TextTeaser: Official version of TextTeaser](http://textprocessing.org/open-source-text-processing-project-python-textteaser)
 
 ## Java
 

@@ -95,6 +95,8 @@ A collection of c/c++ open source text processing projects
 A collection of ruby open source text processing projects
 
 * [WhatLanguage](http://textprocessing.org/open-source-text-processing-project-whatlanguage)
+* [SWING: An Open-Source Text Summarizer from WING](SWING: An Open-Source Text Summarizer from WING)
+
 
 ## Scala
 

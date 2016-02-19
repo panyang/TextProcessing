@@ -12,6 +12,7 @@ A Text Processing Portal for Humans http://textprocessing.org/
 * [C/C++](#cc)
 * [Ruby](#ruby)
 * [Scala](#scala)
+* [Perl](#perl)
 
 ## Books
 
@@ -104,3 +105,8 @@ A collection of scala open source text processing projects
 
 * [TextTeaser](http://textprocessing.org/open-source-text-processing-project-textteaser)
 
+## Perl
+
+A collection of perl open source text processing projects
+
+* [MEAD](http://textprocessing.org/open-source-text-processing-project-mead)

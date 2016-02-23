@@ -81,6 +81,7 @@ A collection of java open source text processing projects
 * [THUTag: A Package of Keyphrase Extraction and Social Tag Suggetion](http://textprocessing.org/open-source-text-processing-project-thutag)
 * [KEA: Keyphrase Extraction Algorithm](http://textprocessing.org/open-source-text-processing-project-kea)
 * [Joshua Statistical Machine Translation Toolkit](http://textprocessing.org/open-source-text-processing-project-joshua)
+* [berkeleylm: An N-gram Language Model Library from UC Berkeley](http://textprocessing.org/open-source-text-processing-project-berkeleylm)
 
 ## C/C++
 

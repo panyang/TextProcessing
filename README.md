@@ -82,6 +82,7 @@ A collection of java open source text processing projects
 * [KEA: Keyphrase Extraction Algorithm](http://textprocessing.org/open-source-text-processing-project-kea)
 * [Joshua Statistical Machine Translation Toolkit](http://textprocessing.org/open-source-text-processing-project-joshua)
 * [berkeleylm: An N-gram Language Model Library from UC Berkeley](http://textprocessing.org/open-source-text-processing-project-berkeleylm)
+* [berkeleyparser](http://textprocessing.org/open-source-text-processing-project-berkeleyparser)
 
 ## C/C++
 

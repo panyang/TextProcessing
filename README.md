@@ -93,6 +93,7 @@ A collection of c/c++ open source text processing projects
 * [Maximum Entropy Modeling Toolkit for Python and C++](http://textprocessing.org/open-source-text-processing-project-maximum-entropy-modeling-toolkit)
 * [Open Text Summarizer](http://textprocessing.org/open-source-text-processing-project-open-text-summarizer)
 * [Moses: the machine translation system](http://textprocessing.org/open-source-text-processing-project-moses)
+* [Thot: a Toolkit for Statistical Machine Translation](http://textprocessing.org/open-source-text-processing-project-thot)
 
 ## Ruby
 

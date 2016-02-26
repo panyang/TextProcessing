@@ -94,6 +94,7 @@ A collection of c/c++ open source text processing projects
 * [Open Text Summarizer](http://textprocessing.org/open-source-text-processing-project-open-text-summarizer)
 * [Moses: the machine translation system](http://textprocessing.org/open-source-text-processing-project-moses)
 * [Thot: a Toolkit for Statistical Machine Translation](http://textprocessing.org/open-source-text-processing-project-thot)
+* [SRILM –The SRI Language Modeling  Toolkitt](ttp://textprocessing.org/open-source-text-processing-project-srilm)
 
 ## Ruby
 

@@ -96,6 +96,7 @@ A collection of c/c++ open source text processing projects
 * [Thot: a Toolkit for Statistical Machine Translation](http://textprocessing.org/open-source-text-processing-project-thot)
 * [SRILM – The SRI Language Modeling Toolkit](http://textprocessing.org/open-source-text-processing-project-srilm)
 * [IRSTLM: The IRST Language Modeling Toolkit](http://textprocessing.org/open-source-text-processing-project-irstlm)
+* [KenLM: Faster and Smaller Language Model Queries](http://textprocessing.org/open-source-text-processing-project-kenlm)
 
 ## Ruby
 

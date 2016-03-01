@@ -98,6 +98,7 @@ A collection of c/c++ open source text processing projects
 * [IRSTLM: The IRST Language Modeling Toolkit](http://textprocessing.org/open-source-text-processing-project-irstlm)
 * [KenLM: Faster and Smaller Language Model Queries](http://textprocessing.org/open-source-text-processing-project-kenlm)
 * [GIZA++: Training of statistical translation models](http://textprocessing.org/open-source-text-processing-project-giza)
+* [mkcls: Training of word classes](http://textprocessing.org/open-source-text-processing-project-mkcls)
 
 ## Ruby
 

@@ -120,3 +120,4 @@ A collection of scala open source text processing projects
 A collection of perl open source text processing projects
 
 * [MEAD](http://textprocessing.org/open-source-text-processing-project-mead)
+* [NSP: The Ngram Statistics Package](http://textprocessing.org/open-source-text-processing-project-text-nsp)

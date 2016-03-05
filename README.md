@@ -101,6 +101,7 @@ A collection of c/c++ open source text processing projects
 * [mkcls: Training of word classes](http://textprocessing.org/open-source-text-processing-project-mkcls)
 * [MGIZA++: a multi-threaded word alignment tool based on GIZA++](http://textprocessing.org/open-source-text-processing-project-mgiza)
 * [HTK: The Hidden Markov Model Toolkit](http://textprocessing.org/open-source-text-processing-project-htk)
+* [GHMM: The General Hidden Markov Model library](http://textprocessing.org/open-source-text-processing-project-ghmm)
 
 ## Ruby
 

@@ -13,6 +13,7 @@ A Text Processing Portal for Humans http://textprocessing.org/
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [Perl](#perl)
+* [Matlab](#matlab)
 
 ## Books
 
@@ -126,3 +127,9 @@ A collection of perl open source text processing projects
 
 * [MEAD](http://textprocessing.org/open-source-text-processing-project-mead)
 * [NSP: The Ngram Statistics Package](http://textprocessing.org/open-source-text-processing-project-text-nsp)
+
+## Matlab
+
+A collection of matlab open source text processing projects
+
+* [Hidden Markov Model (HMM) Toolbox for Matlab](http://textprocessing.org/open-source-text-processing-project-matlab-hmm)

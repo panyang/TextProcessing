@@ -14,6 +14,7 @@ A Text Processing Portal for Humans http://textprocessing.org/
 * [Scala](#scala)
 * [Perl](#perl)
 * [Matlab](#matlab)
+* [R](#r)
 
 ## Books
 
@@ -133,3 +134,9 @@ A collection of perl open source text processing projects
 A collection of matlab open source text processing projects
 
 * [Hidden Markov Model (HMM) Toolbox for Matlab](http://textprocessing.org/open-source-text-processing-project-matlab-hmm)
+
+## R
+
+A collection of R open source text processing projects
+
+* [RHMM: HMM-Hidden Markov Models](http://textprocessing.org/open-source-text-processing-project-r-hmm)

@@ -87,6 +87,7 @@ A collection of java open source text processing projects
 * [berkeleylm: An N-gram Language Model Library from UC Berkeley](http://textprocessing.org/open-source-text-processing-project-berkeleylm)
 * [berkeleyparser](http://textprocessing.org/open-source-text-processing-project-berkeleyparser)
 * [Jahmm: An implementation of Hidden Markov Models in Java](http://textprocessing.org/open-source-text-processing-project-jahmm)
+* [CRF Project](http://textprocessing.org/open-source-text-processing-project-crf-project)
 
 ## C/C++
 

@@ -109,6 +109,7 @@ A collection of c/c++ open source text processing projects
 * [GHMM: The General Hidden Markov Model library](http://textprocessing.org/open-source-text-processing-project-ghmm)
 * [UMDHMM: Hidden Markov Model Toolkit](http://textprocessing.org/open-source-text-processing-project-umdhmm)
 * [hmmus: Posterior decoding with a hidden Markov model](http://textprocessing.org/open-source-text-processing-project-hmmus)
+* [The Porter Stemming Algorithm](http://textprocessing.org/open-source-text-processing-project-the-porter-stemming-algorithm)
 
 
 ## Ruby

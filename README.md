@@ -88,6 +88,7 @@ A collection of java open source text processing projects
 * [berkeleyparser](http://textprocessing.org/open-source-text-processing-project-berkeleyparser)
 * [Jahmm: An implementation of Hidden Markov Models in Java](http://textprocessing.org/open-source-text-processing-project-jahmm)
 * [CRF Project](http://textprocessing.org/open-source-text-processing-project-crf-project)
+* [Snowball](http://textprocessing.org/open-source-text-processing-project-snowball)
 
 ## C/C++
 

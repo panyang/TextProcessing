@@ -64,6 +64,7 @@ A collection of python open source text processing projects
 * [TextTeaser: Official version of TextTeaser](http://textprocessing.org/open-source-text-processing-project-python-textteaser)
 * [Pyteaser: Summarizes news articles by providing an url](http://textprocessing.org/open-source-text-processing-project-pyteaser)
 * [hmmlearn: Hidden Markov Models in Python](http://textprocessing.org/open-source-text-processing-project-hmmlearn)
+* [Python stemming library using snowball stemmers](http://textprocessing.org/open-source-text-processing-project-pystemmer)
 
 ## Java
 

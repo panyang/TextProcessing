@@ -113,6 +113,7 @@ A collection of c/c++ open source text processing projects
 * [hmmus: Posterior decoding with a hidden Markov model](http://textprocessing.org/open-source-text-processing-project-hmmus)
 * [The Porter Stemming Algorithm](http://textprocessing.org/open-source-text-processing-project-the-porter-stemming-algorithm)
 * [libstemmer: The C version of the libstemmer library](http://textprocessing.org/open-source-text-processing-project-libstemmer)
+* [Oleander C++ stemming library](http://textprocessing.org/open-source-text-processing-project-oleanderstemminglibrary)
 
 
 ## Ruby

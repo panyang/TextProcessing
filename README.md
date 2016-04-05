@@ -124,6 +124,7 @@ A collection of ruby open source text processing projects
 * [WhatLanguage](http://textprocessing.org/open-source-text-processing-project-whatlanguage)
 * [SWING: An Open-Source Text Summarizer from WING](http://textprocessing.org/open-source-text-processing-project-swing)
 * [Ruby-Stemmer exposes SnowBall API to Ruby](http://textprocessing.org/open-source-text-processing-project-ruby-stemmer)
+* [Fast Porter stemmer based on a C version of the algorithm](http://textprocessing.org/open-source-text-processing-project-fast-stemmer)
 
 
 ## Scala

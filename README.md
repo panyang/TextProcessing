@@ -15,6 +15,7 @@ A Text Processing Portal for Humans http://textprocessing.org/
 * [Perl](#perl)
 * [Matlab](#matlab)
 * [R](#r)
+* [Go](#go)
 
 ## Books
 
@@ -154,3 +155,9 @@ A collection of matlab open source text processing projects
 A collection of R open source text processing projects
 
 * [RHMM: HMM-Hidden Markov Models](http://textprocessing.org/open-source-text-processing-project-r-hmm)
+
+## Go
+
+A collection of Go open source text processing projects
+
+* [Go implementation of the Snowball stemmers](http://textprocessing.org/open-source-text-processing-project-kljensen-snowball)

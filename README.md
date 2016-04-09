@@ -162,3 +162,4 @@ A collection of Go open source text processing projects
 
 * [Go implementation of the Snowball stemmers](http://textprocessing.org/open-source-text-processing-project-kljensen-snowball)
 * [Go Porter Stemmer](http://textprocessing.org/open-source-text-processing-project-go-porterstemmer)
+* [Go (golang) bindings for libstemmer](http://textprocessing.org/open-source-text-processing-project-golibstemmer)

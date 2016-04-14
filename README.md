@@ -67,6 +67,7 @@ A collection of python open source text processing projects
 * [hmmlearn: Hidden Markov Models in Python](http://textprocessing.org/open-source-text-processing-project-hmmlearn)
 * [Python stemming library using snowball stemmers](http://textprocessing.org/open-source-text-processing-project-pystemmer)
 * [IEPY: Information Extraction in Python](http://textprocessing.org/open-source-text-processing-project-iepy)
+* [Python implementation of TextRank algorithm](http://textprocessing.org/open-source-text-processing-project-textrank)
 
 ## Java
 

@@ -97,6 +97,7 @@ A collection of java open source text processing projects
 * [RelationFactory: End-to-end relation extraction and knowledge base population pipeline](http://textprocessing.org/open-source-text-processing-project-relationfactory)
 * [Information Extraction System](http://textprocessing.org/open-source-text-processing-project-informationextractionsystem)
 * [YodaQA: A Question Answering system built on top of the Apache UIMA framework](http://textprocessing.org/open-source-text-processing-project-yodaqa)
+* [The Ephyra Question Answering System](http://textprocessing.org/open-source-text-processing-project-ephyra)
 
 ## C/C++
 

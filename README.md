@@ -68,6 +68,7 @@ A collection of python open source text processing projects
 * [Python stemming library using snowball stemmers](http://textprocessing.org/open-source-text-processing-project-pystemmer)
 * [IEPY: Information Extraction in Python](http://textprocessing.org/open-source-text-processing-project-iepy)
 * [Python implementation of TextRank algorithm](http://textprocessing.org/open-source-text-processing-project-textrank)
+* [SpeechRecognition:Library for performing speech recognition](http://textprocessing.org/open-source-text-processing-project-speechrecognition)
 
 ## Java
 

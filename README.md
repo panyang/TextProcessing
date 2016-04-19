@@ -69,6 +69,7 @@ A collection of python open source text processing projects
 * [IEPY: Information Extraction in Python](http://textprocessing.org/open-source-text-processing-project-iepy)
 * [Python implementation of TextRank algorithm](http://textprocessing.org/open-source-text-processing-project-textrank)
 * [SpeechRecognition:Library for performing speech recognition](http://textprocessing.org/open-source-text-processing-project-speechrecognition)
+* [NLP-Caffe: natural language processing with Caffe](http://textprocessing.org/open-source-text-processing-project-nlp-caffe)
 
 ## Java
 

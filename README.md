@@ -71,6 +71,7 @@ A collection of python open source text processing projects
 * [SpeechRecognition:Library for performing speech recognition](http://textprocessing.org/open-source-text-processing-project-speechrecognition)
 * [NLP-Caffe: natural language processing with Caffe](http://textprocessing.org/open-source-text-processing-project-nlp-caffe)
 * [Quepy: A python framework to transform natural language questions to queries in a database query language](http://textprocessing.org/open-source-text-processing-project-quepy)
+* [Cause of Why](http://textprocessing.org/open-source-text-processing-project-causeofwhy)
 
 ## Java
 

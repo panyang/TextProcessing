@@ -103,6 +103,7 @@ A collection of java open source text processing projects
 * [Information Extraction System](http://textprocessing.org/open-source-text-processing-project-informationextractionsystem)
 * [YodaQA: A Question Answering system built on top of the Apache UIMA framework](http://textprocessing.org/open-source-text-processing-project-yodaqa)
 * [The Ephyra Question Answering System](http://textprocessing.org/open-source-text-processing-project-ephyra)
+* [SimpleNLG: Java API for Natural Language Generation](http://textprocessing.org/open-source-text-processing-project-simplenlg)
 
 ## C/C++
 

@@ -105,6 +105,7 @@ A collection of java open source text processing projects
 * [YodaQA: A Question Answering system built on top of the Apache UIMA framework](http://textprocessing.org/open-source-text-processing-project-yodaqa)
 * [The Ephyra Question Answering System](http://textprocessing.org/open-source-text-processing-project-ephyra)
 * [SimpleNLG: Java API for Natural Language Generation](http://textprocessing.org/open-source-text-processing-project-simplenlg)
+* [CMU Sphinx: Project by Carnegie Mellon University](http://textprocessing.org/open-source-text-processing-project-cmu-sphinx)
 
 ## C/C++
 

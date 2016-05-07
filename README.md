@@ -131,6 +131,7 @@ A collection of c/c++ open source text processing projects
 * [libstemmer: The C version of the libstemmer library](http://textprocessing.org/open-source-text-processing-project-libstemmer)
 * [Oleander C++ stemming library](http://textprocessing.org/open-source-text-processing-project-oleanderstemminglibrary)
 * [Serelex – a tool for semantic relation extraction](http://textprocessing.org/open-source-text-processing-project-serelex)
+* [sphinxbase: CMU Sphinx common libraries](http://textprocessing.org/open-source-text-processing-project-sphinxbase)
 
 
 ## Ruby

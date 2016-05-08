@@ -74,6 +74,7 @@ A collection of python open source text processing projects
 * [Cause of Why](http://textprocessing.org/open-source-text-processing-project-causeofwhy)
 * [semanticizest: Standalone Semanticizer](http://textprocessing.org/open-source-text-processing-project-semanticizest)
 * [nlgserv: JSON HTTP wrapper for SimpleNLG](http://textprocessing.org/open-source-text-processing-project-nlgserv)
+* [gensim-simserver: Document similarity server, using gensim](http://textprocessing.org/open-source-text-processing-project-gensim-simserver)
 
 ## Java
 

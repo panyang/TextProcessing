@@ -133,6 +133,7 @@ A collection of c/c++ open source text processing projects
 * [Oleander C++ stemming library](http://textprocessing.org/open-source-text-processing-project-oleanderstemminglibrary)
 * [Serelex – a tool for semantic relation extraction](http://textprocessing.org/open-source-text-processing-project-serelex)
 * [sphinxbase: CMU Sphinx common libraries](http://textprocessing.org/open-source-text-processing-project-sphinxbase)
+* [Sphinxtrain](http://textprocessing.org/open-source-text-processing-project-sphinxtrain)
 
 
 ## Ruby

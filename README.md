@@ -107,6 +107,7 @@ A collection of java open source text processing projects
 * [The Ephyra Question Answering System](http://textprocessing.org/open-source-text-processing-project-ephyra)
 * [SimpleNLG: Java API for Natural Language Generation](http://textprocessing.org/open-source-text-processing-project-simplenlg)
 * [CMU Sphinx: Project by Carnegie Mellon University](http://textprocessing.org/open-source-text-processing-project-cmu-sphinx)
+* [Sphinx-4 Speech Recognition System](http://textprocessing.org/open-source-text-processing-project-sphinx4)
 
 ## C/C++
 

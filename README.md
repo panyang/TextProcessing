@@ -137,6 +137,7 @@ A collection of c/c++ open source text processing projects
 * [sphinxbase: CMU Sphinx common libraries](http://textprocessing.org/open-source-text-processing-project-sphinxbase)
 * [Sphinxtrain](http://textprocessing.org/open-source-text-processing-project-sphinxtrain)
 * [PocketSphinx](http://textprocessing.org/open-source-text-processing-project-pocketsphinx)
+* [Kaldi Speech Recognition Toolkit](http://textprocessing.org/open-source-text-processing-project-kaldi)
 
 ## Ruby
 

@@ -138,6 +138,7 @@ A collection of c/c++ open source text processing projects
 * [Sphinxtrain](http://textprocessing.org/open-source-text-processing-project-sphinxtrain)
 * [PocketSphinx](http://textprocessing.org/open-source-text-processing-project-pocketsphinx)
 * [Kaldi Speech Recognition Toolkit](http://textprocessing.org/open-source-text-processing-project-kaldi)
+* [Julius: Open-Source Large Vocabulary Continuous Speech Recognition Engine](http://textprocessing.org/open-source-text-processing-project-julius)
 
 ## Ruby
 

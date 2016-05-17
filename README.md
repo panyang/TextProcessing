@@ -76,6 +76,7 @@ A collection of python open source text processing projects
 * [nlgserv: JSON HTTP wrapper for SimpleNLG](http://textprocessing.org/open-source-text-processing-project-nlgserv)
 * [gensim-simserver: Document similarity server, using gensim](http://textprocessing.org/open-source-text-processing-project-gensim-simserver)
 * [pocketsphinx-python: Python interface to CMU SphinxBase and PocketSphinx libraries](http://textprocessing.org/open-source-text-processing-project-pocketsphinx-python)
+* [PyJulius: Python interface to Julius speech recognition engine](http://textprocessing.org/open-source-text-processing-project-pyjulius)
 
 ## Java
 

@@ -30,6 +30,7 @@ A collection of text processing books
 * [Python 2.6 Text Processing Beginners Guide](http://textprocessing.org/text-processing-book-python-2-6-text-processing-beginners-guide)
 * [Taming Text: How to Find, Organize, and Manipulate It 1st Edition](http://textprocessing.org/text-processing-book-taming-text-how-to-find-organize-and-manipulate-it-1st-edition)
 * [Text Processing with Ruby](http://textprocessing.org/text-processing-book-text-processing-with-ruby)
+* [Speech and Language Processing (3rd ed. draft)](http://textprocessing.org/text-processing-book-speech-and-language-processing-3rd-ed-draft)
 
 ## Courses
 

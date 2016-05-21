@@ -144,6 +144,7 @@ A collection of c/c++ open source text processing projects
 * [Julius: Open-Source Large Vocabulary Continuous Speech Recognition Engine](http://textprocessing.org/open-source-text-processing-project-julius)
 * [eSpeak text to speech](http://textprocessing.org/open-source-text-processing-project-espeak)
 * [The Festival Speech Synthesis System](http://textprocessing.org/open-source-text-processing-project-festival)
+* [Torch: A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT](http://textprocessing.org/open-source-deep-learning-project-torch)
 
 ## Ruby
 

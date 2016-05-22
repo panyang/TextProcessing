@@ -79,6 +79,7 @@ A collection of python open source text processing projects
 * [pocketsphinx-python: Python interface to CMU SphinxBase and PocketSphinx libraries](http://textprocessing.org/open-source-text-processing-project-pocketsphinx-python)
 * [PyJulius: Python interface to Julius speech recognition engine](http://textprocessing.org/open-source-text-processing-project-pyjulius)
 * [Theano](http://textprocessing.org/open-source-deep-learning-project-theano)
+* [Pylearn2: A machine learning research library](http://textprocessing.org/open-source-deep-learning-project-pylearn2)
 
 ## Java
 

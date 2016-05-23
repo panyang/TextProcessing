@@ -80,6 +80,7 @@ A collection of python open source text processing projects
 * [PyJulius: Python interface to Julius speech recognition engine](http://textprocessing.org/open-source-text-processing-project-pyjulius)
 * [Theano](http://textprocessing.org/open-source-deep-learning-project-theano)
 * [Pylearn2: A machine learning research library](http://textprocessing.org/open-source-deep-learning-project-pylearn2)
+* [Blocks: A Theano framework for building and training neural networks](http://textprocessing.org/open-source-deep-learning-project-blocks)
 
 ## Java
 

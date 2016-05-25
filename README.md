@@ -148,7 +148,7 @@ A collection of c/c++ open source text processing projects
 * [eSpeak text to speech](http://textprocessing.org/open-source-text-processing-project-espeak)
 * [The Festival Speech Synthesis System](http://textprocessing.org/open-source-text-processing-project-festival)
 * [Torch: A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT](http://textprocessing.org/open-source-deep-learning-project-torch)
-* [maxnet:Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler](http://textprocessing.org/open-source-deep-learning-project-mxnet)
+* [maxnet: Flexible and Efficient Library for Deep Learning](http://textprocessing.org/open-source-deep-learning-project-mxnet)
 
 ## Ruby
 

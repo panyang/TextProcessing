@@ -149,6 +149,7 @@ A collection of c/c++ open source text processing projects
 * [The Festival Speech Synthesis System](http://textprocessing.org/open-source-text-processing-project-festival)
 * [Torch: A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT](http://textprocessing.org/open-source-deep-learning-project-torch)
 * [maxnet: Flexible and Efficient Library for Deep Learning](http://textprocessing.org/open-source-deep-learning-project-mxnet)
+* [Caffe: Deep learning framework by the BVLC](http://textprocessing.org/open-source-deep-learning-project-caffe)
 
 ## Ruby
 

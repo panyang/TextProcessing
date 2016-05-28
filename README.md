@@ -116,6 +116,7 @@ A collection of java open source text processing projects
 * [SimpleNLG: Java API for Natural Language Generation](http://textprocessing.org/open-source-text-processing-project-simplenlg)
 * [CMU Sphinx: Project by Carnegie Mellon University](http://textprocessing.org/open-source-text-processing-project-cmu-sphinx)
 * [Sphinx-4 Speech Recognition System](http://textprocessing.org/open-source-text-processing-project-sphinx4)
+* [MaryTTS: The MARY Text-to-Speech System](http://textprocessing.org/open-source-text-processing-project-marytts)
 
 ## C/C++
 

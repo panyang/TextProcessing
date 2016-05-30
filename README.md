@@ -83,6 +83,7 @@ A collection of python open source text processing projects
 * [Blocks: A Theano framework for building and training neural networks](http://textprocessing.org/open-source-deep-learning-project-blocks)
 * [TensorFlow is an Open Source Software Library for Machine Intelligence](http://textprocessing.org/open-source-deep-learning-project-tensorflow)
 * [Lasagne: Lightweight library to build and train neural networks in Theano](http://textprocessing.org/open-source-deep-learning-project-lasagne)
+* [Keras: Deep Learning library for Theano and TensorFlow](http://textprocessing.org/open-source-deep-learning-project-keras)
 
 ## Java
 

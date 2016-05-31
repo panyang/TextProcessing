@@ -84,6 +84,7 @@ A collection of python open source text processing projects
 * [TensorFlow is an Open Source Software Library for Machine Intelligence](http://textprocessing.org/open-source-deep-learning-project-tensorflow)
 * [Lasagne: Lightweight library to build and train neural networks in Theano](http://textprocessing.org/open-source-deep-learning-project-lasagne)
 * [Keras: Deep Learning library for Theano and TensorFlow](http://textprocessing.org/open-source-deep-learning-project-keras)
+* [Chainer: A Powerful, Flexible, and Intuitive Framework of Neural Networks](http://textprocessing.org/open-source-deep-learning-project-chainer)
 
 ## Java
 

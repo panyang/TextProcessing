@@ -155,6 +155,7 @@ A collection of c/c++ open source text processing projects
 * [maxnet: Flexible and Efficient Library for Deep Learning](http://textprocessing.org/open-source-deep-learning-project-mxnet)
 * [Caffe: Deep learning framework by the BVLC](http://textprocessing.org/open-source-deep-learning-project-caffe)
 * [CMU Flite: a small, fast run time synthesis engine](http://textprocessing.org/open-source-text-processing-project-cmu-flite)
+* [RNNLM – Tomas Mikolov’s Recurrent Neural Network based Language models Toolkit](http://textprocessing.org/open-source-text-processing-project-cmu-flite)
 
 ## Ruby
 

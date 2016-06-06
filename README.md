@@ -119,6 +119,7 @@ A collection of java open source text processing projects
 * [CMU Sphinx: Project by Carnegie Mellon University](http://textprocessing.org/open-source-text-processing-project-cmu-sphinx)
 * [Sphinx-4 Speech Recognition System](http://textprocessing.org/open-source-text-processing-project-sphinx4)
 * [MaryTTS: The MARY Text-to-Speech System](http://textprocessing.org/open-source-text-processing-project-marytts)
+* [Deeplearning4J: Neural Net Platform](http://textprocessing.org/open-source-deep-learning-project-deeplearning4j)
 
 ## C/C++
 

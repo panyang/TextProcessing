@@ -193,6 +193,7 @@ A collection of matlab open source text processing projects
 * [Hidden Markov Model (HMM) Toolbox for Matlab](http://textprocessing.org/open-source-text-processing-project-matlab-hmm)
 * [Open source HMM toolbox, with Discrete-HMM, Gaussian-HMM, GMM-HMM](http://textprocessing.org/open-source-text-processing-project-matlab-hmm-by-qiuqiangkong)
 * [DeepLearnToolbox: Matlab/Octave toolbox for deep learning](http://textprocessing.org/open-source-deep-learning-project-deeplearntoolbox)
+* [deepmat](http://textprocessing.org/open-source-deep-learning-project-deepmat)
 
 ## R
 

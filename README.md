@@ -161,6 +161,7 @@ A collection of c/c++ open source text processing projects
 * [RNNLIB](http://textprocessing.org/open-source-deep-learning-project-rnnlib)
 * [mshadow: Matrix Shadow](http://textprocessing.org/open-source-deep-learning-project-mshadow)
 * [CXXNET is a fast, concise, distributed deep learning framework](http://textprocessing.org/open-source-deep-learning-project-cxxnet)
+* [EBLearn: Open Source C++ Machine Learning Library](http://textprocessing.org/open-source-deep-learning-project-eblearn)
 
 ## Ruby
 

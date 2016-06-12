@@ -86,6 +86,7 @@ A collection of python open source text processing projects
 * [Keras: Deep Learning library for Theano and TensorFlow](http://textprocessing.org/open-source-deep-learning-project-keras)
 * [Chainer: A Powerful, Flexible, and Intuitive Framework of Neural Networks](http://textprocessing.org/open-source-deep-learning-project-chainer)
 * [The Nengo Neural Simulator](http://textprocessing.org/open-source-deep-learning-project-nengo)
+* [CUDAMat: Python module for performing basic dense linear algebra computations on the GPU using CUDA](http://textprocessing.org/open-source-deep-learning-project-cudamat)
 
 ## Java
 

@@ -203,6 +203,7 @@ A collection of matlab open source text processing projects
 * [Open source HMM toolbox, with Discrete-HMM, Gaussian-HMM, GMM-HMM](http://textprocessing.org/open-source-text-processing-project-matlab-hmm-by-qiuqiangkong)
 * [DeepLearnToolbox: Matlab/Octave toolbox for deep learning](http://textprocessing.org/open-source-deep-learning-project-deeplearntoolbox)
 * [deepmat](http://textprocessing.org/open-source-deep-learning-project-deepmat)
+* [ConvNet: Convolutional Neural Networks for Matlab](http://textprocessing.org/open-source-deep-learning-project-convnet)
 
 ## R
 

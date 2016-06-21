@@ -88,6 +88,7 @@ A collection of python open source text processing projects
 * [The Nengo Neural Simulator](http://textprocessing.org/open-source-deep-learning-project-nengo)
 * [CUDAMat: Python module for performing basic dense linear algebra computations on the GPU using CUDA](http://textprocessing.org/open-source-deep-learning-project-cudamat)
 * [Gnumpy](http://textprocessing.org/open-source-deep-learning-project-gnumpy)
+* [ELEKTRONN: A highly configurable toolkit for training 3d/2d CNNs and general Neural Networks](http://textprocessing.org/open-source-deep-learning-project-elektronn)
 
 ## Java
 

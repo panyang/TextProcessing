@@ -168,6 +168,7 @@ A collection of c/c++ open source text processing projects
 * [EBLearn: Open Source C++ Machine Learning Library](http://textprocessing.org/open-source-deep-learning-project-eblearn)
 * [CNTK: Computational Network Toolkit](http://textprocessing.org/open-source-deep-learning-project-cntk)
 * [CUV: Matrix library for CUDA in C++ and Python](http://textprocessing.org/open-source-deep-learning-project-cuv)
+* [OpenNN: Open Neural Networks Library](http://textprocessing.org/open-source-deep-learning-project-opennn)
 
 ## Ruby
 

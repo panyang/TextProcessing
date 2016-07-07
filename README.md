@@ -125,6 +125,7 @@ A collection of java open source text processing projects
 * [MaryTTS: The MARY Text-to-Speech System](http://textprocessing.org/open-source-text-processing-project-marytts)
 * [Deeplearning4J: Neural Net Platform](http://textprocessing.org/open-source-deep-learning-project-deeplearning4j)
 * [neuralnetworks: Deep Neural Networks with GPU support](http://textprocessing.org/open-source-deep-learning-project-neuralnetworks)
+* [Stanford Temporal Tagger](http://textprocessing.org/open-source-text-processing-project-stanford-temporal-tagger)
 
 ## C/C++
 

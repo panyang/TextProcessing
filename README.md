@@ -172,6 +172,7 @@ A collection of c/c++ open source text processing projects
 * [OpenNN: Open Neural Networks Library](http://textprocessing.org/open-source-deep-learning-project-opennn)
 * [torchnet: Torch on steroids](http://textprocessing.org/open-source-deep-learning-project-torchnet)
 * [dlib: A toolkit for making real world machine learning and data analysis aplications in C++](http://textprocessing.org/open-source-deep-learning-project-dlib)
+* [Paddle: PArallel Distributed Deep LEarning](http://textprocessing.org/open-source-deep-learning-project-paddle)
 
 ## Ruby
 

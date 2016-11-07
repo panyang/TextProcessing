@@ -90,6 +90,7 @@ A collection of python open source text processing projects
 * [Gnumpy](http://textprocessing.org/open-source-deep-learning-project-gnumpy)
 * [ELEKTRONN: A highly configurable toolkit for training 3d/2d CNNs and general Neural Networks](http://textprocessing.org/open-source-deep-learning-project-elektronn)
 * [vivekn sentiment: Sentiment analysis using machine learning techniques](http://textprocessing.org/open-source-text-processing-project-vivekn-sentiment)
+* [textacy: higher-level NLP built on spaCy](http://textprocessing.org/open-source-text-processing-project-textacy)
 
 ## Java
 

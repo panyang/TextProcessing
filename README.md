@@ -187,6 +187,7 @@ A collection of ruby open source text processing projects
 * [Ruby module that converts a word to its approximate root form with the Porter stemmer](http://textprocessing.org/open-source-text-processing-project-stemmify)
 * [Akiva is a simple natural-language-processing, question-answering, artificial intelligence](http://textprocessing.org/open-source-text-processing-project-akiva)
 * [pocketsphinx-ruby: Ruby speech recognition with Pocketsphinx](http://textprocessing.org/open-source-text-processing-project-pocketsphinx-ruby)
+* [nlp-with-ruby: Awesome NLP with Ruby](http://textprocessing.org/open-source-text-processing-project-nlp-with-ruby)
 
 
 ## Scala

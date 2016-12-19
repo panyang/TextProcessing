@@ -91,6 +91,7 @@ A collection of python open source text processing projects
 * [ELEKTRONN: A highly configurable toolkit for training 3d/2d CNNs and general Neural Networks](http://textprocessing.org/open-source-deep-learning-project-elektronn)
 * [vivekn sentiment: Sentiment analysis using machine learning techniques](http://textprocessing.org/open-source-text-processing-project-vivekn-sentiment)
 * [textacy: higher-level NLP built on spaCy](http://textprocessing.org/open-source-text-processing-project-textacy)
+* [segtok: sentence segmentation and word tokenization tools](http://textprocessing.org/open-source-text-processing-project-segtok)
 
 ## Java
 

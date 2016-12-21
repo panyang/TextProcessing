@@ -176,6 +176,7 @@ A collection of c/c++ open source text processing projects
 * [torchnet: Torch on steroids](http://textprocessing.org/open-source-deep-learning-project-torchnet)
 * [dlib: A toolkit for making real world machine learning and data analysis aplications in C++](http://textprocessing.org/open-source-deep-learning-project-dlib)
 * [Paddle: PArallel Distributed Deep LEarning](http://textprocessing.org/open-source-deep-learning-project-paddle)
+* [Wapiti – A simple and fast discriminative sequence labelling toolkit](http://textprocessing.org/open-source-text-processing-project-wapiti)
 
 ## Ruby
 
